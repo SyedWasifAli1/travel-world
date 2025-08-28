@@ -19,12 +19,13 @@ This project is designed as a portfolio project to showcase my frontend developm
 
 ## 🖼️ Screenshots
 ### 🏠 Homepage  
-(You can add screenshots here after deployment)
+<img width="1349" height="640" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/d6a5de84-7f87-4573-90ff-4b27a502c800" />
+
 
 ---
 
 ## 🛠️ Tech Stack
-- **Next.js 14 (App Router)** – React Framework  
+- **Next.js 15 (App Router)** – React Framework  
 - **TypeScript** – For type safety  
 - **Tailwind CSS** – Modern styling  
 - **Framer Motion** – Animations  
@@ -35,5 +36,5 @@ This project is designed as a portfolio project to showcase my frontend developm
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/travelworld.git
+git clone https://github.com/your-username/travel-world.git
 cd travelworld
